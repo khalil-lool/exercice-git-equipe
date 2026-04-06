@@ -1,5 +1,5 @@
 # Patients de SénSanté
 
-1. Aminata Sow - Dakar - 34 ans - Fièvre
-2. Ibrahima Ba - Thiès - 45 ans
-3. Awa Diallo - Saint-Louis - 28 ans
+1. ndeye maty Sow - Dakar - 34 ans - Fièvre
+2. Ibrahima  - Thiès - 45 ans
+3. Adji deguene - Saint-Louis - 28 ans
